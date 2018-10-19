@@ -184,7 +184,7 @@
                 "content" : { "Fn::Join" : [ "", [
                   "<html>\n",
                   "  <head>\n",
-                  "    <title>Automtion for the People</title>\n",
+                  "    <title>Automation for the People</title>\n",
                   "  </head>\n",
                   "  <body>\n",
                   "    <h1>Automtion for the People</h1>\n",
