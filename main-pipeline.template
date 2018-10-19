@@ -307,7 +307,7 @@
             "Type": "String"
         },
         "StackCreationRoleArn": {
-			"Default": "arn:aws:iam::044808208210:role/cloudformation_admin",
+			"Default": "",
             "Description": "Role used to launch CloudFormation stacks",
             "Type": "String"
         }
